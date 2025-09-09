@@ -9,20 +9,30 @@
 
 ## 🚀 Skills  
 
-### Programming & Development  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+### 🚀 Programming & Development  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
-### Web & Tools  
+### 🌐 Web & Frameworks  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+
+### 🛠 Tools & IDEs  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)  
 ![Sublime Text](https://img.shields.io/badge/-Sublime-FF9800?logo=sublimetext&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)  
+
+### 🗄 Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+
 
 ---
 
@@ -34,7 +44,7 @@
 ---
 
 ## 📌 Featured Projects  
-🔹 [**QuizBuddy**](https://github.com/Luvish-Arora/QuizBuddy) – AI-powered adaptive quiz generator using NLP & ML models.  
+🔹 [**QuizBuddy**](https://github.com/Luvish-Arora/Question-Generator-QUIZ-BUDDY-1-) – AI-powered adaptive quiz generator using NLP & ML models.  
 🔹 [**SeatSure**](https://github.com/Luvish-Arora/BusBookingSystem) – Spring Boot bus booking system with QR-based ticketing.  
 🔹 [**SRM Mapify**](https://github.com/Luvish-Arora/SRM-Mapify) – Campus navigation tool using Google Maps API.  
 
